@@ -1,11 +1,12 @@
 KATHRINA CZARNY
 ================
-#### |   kathrinaczarny.github.io   |   kczarny2@gmail.com   |
+#### |   [kathrinaczarny.github.io](https://kathrinaczarny.github.io)   |   kczarny2@gmail.com   |
 
 <br>
 
+---
+
 ## EXPERIENCE
----------
 ### MICROSOFT
 #### **Program Manager** | May 2018 – November 2019
 _Managed, launched, and improved programs that foster diversity, inclusion, and belonging for M365 Core. Initiatives included culture change promoting a growth mindset, curiosity, collaboration, recruitment, and retention._
@@ -29,8 +30,9 @@ _Managed tactical and strategic learning programs for 900+ Tableau developers. F
 
 <br>
 
+---
+
 ## EDUCATION
----------
 ### UNIVERSITY OF WASHINGTON | Bothell, WA 
 #### **Software Design & Development** | June 2020           
 *	Data Structures and Algorithms I & II
@@ -51,11 +53,12 @@ _Managed tactical and strategic learning programs for 900+ Tableau developers. F
 
 <br>
 
+---
+
 ## AWARDS
----------
 ### Startup Weekend EDU
 _Winning Product: Class Volt_ | 2nd Place | November 2015
-*	More info: kathrinaczarny.myportfolio.com/class-volt
+*	More info: [kathrinaczarny.myportfolio.com/class-volt](https://kathrinaczarny.myportfolio.com/class-volt)
 *	Conducted market research, user research, generated personas, scenarios, and prototypes.
 *	Visual and interaction design: wireframes, navigation, branding, and graphic design.
 *	Presented product pitch to panel of judges, winning 2nd place.
@@ -65,10 +68,9 @@ _Winning Product: Class Volt_ | 2nd Place | November 2015
 ---
 
 ## PROJECTS
-
 ### Global Game Jam 
 _Developed Game: Robot Love Song_ | January 2018
-*   Link to project: globalgamejam.org/2018/games/robot-love-song
+*   Link to project: [globalgamejam.org/2018/games/robot-love-song](https:globalgamejam.org/2018/games/robot-love-song)
 *	Project management support for team of 9 consisting of developers, visual artists, and sound designers; result: coordinated efforts for game completed by 48-hour deadline.
 
 <br>
