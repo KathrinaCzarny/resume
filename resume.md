@@ -11,11 +11,16 @@ KATHRINA CZARNY
 
 _Managed, launched, and improved programs that foster diversity, inclusion, and belonging for M365 Core. Initiatives included culture change promoting a growth mindset, curiosity, collaboration, recruitment, and retention._  
 
-*   Conducted user research; discovered pain points and insights to propose onboarding solutions.
-*	Led a cross-disciplinary team to launch onboarding program, resulting in overall positive feedback from attendees.
-*	Developed user-empathetic navigation of SharePoint site from testing and feedback; led to cohesive webpages and documentation.
+*	Conducted user research, discovered insights, and gathered requirements to propose onboarding solutions.
+*	Led a cross-disciplinary team to launch onboarding program, result: overall positive feedback from attendees.
+*	Aligned partner teams to SharePoint best practices, resulting in increased discoverability for site users.
+•	Developed user-empathetic sites based on testing/feedback; result: cohesive navigation and documentation.
+*	Designed branding/marketing materials to promote team initiatives, resulting in high recognition and visibility; work completed: graphic design assets, presentations, posters, infographics, booklets, SharePoint pages.
+*	Created decks and communications for use by leadership team executives with org-wide reach & impact.
+*	Pitched business proposals to executives and stakeholders resulting in buy-in and funding for initiatives.
 *	Managed 20 college student developer interns; coached students in 1:1s through reviews and evaluations.
-*	Led intern teams through product design process: development, code reviews, prototyping, Agile methodology.
+*	Led intern teams through product design process: code review, user testing of prototypes, Agile methodology.
+
 
 ### TABLEAU SOFTWARE
 #### **Dev Project Coordinator** | August 2017 – March 2018
@@ -27,21 +32,47 @@ _Managed tactical and strategic learning programs for 900+ Tableau developers. F
 *	Collaborated with cross-functional teams and developed improved systems for consolidating user-behavior data.
 *	Implemented design thinking methodologies to create goals and objectives for team; led to aligned priorities.
 
-### SEATTLE AREA SCHOOL DISTRICTS
-#### **Classroom Teacher, Tutor, Instructor** | August 2011 - August 2016
-*   More information can be provided upon request
+### KENTRIDGE SCHOOL DISTRICT
+#### **High School Teacher** | August 2013 – August 2016
 
+*   Assessed metrics on student progress towards learning outcomes in monthly retrospectives and iterated on improvements, resulting to 40% improvements.
+*	Developed original curriculum for 360 hours of instruction ensuring that instructional design met district initiatives, education standards, while customized for the user.
 
+### INDEPENDENT CONTRACTOR
+#### **Educator: STEM, College Readiness, Various** | August 2011 – August 2016
+
+*	Taught Lego Mindstorms robotics, math, and CS summer camp classes— result: youth involvement in STEM.
+*	Tutored students in college essay writing, math, and SAT prep— result: improvement in grades and scores.
+*	Managed classrooms across Seattle-area—result: on-schedule progress towards project completion.
+
+### NORTHWESTERN UNIVERSITY
+#### **Research Assistant, Neuroscience Lab** | August 2011 – August 2016
+
+*	Conducted neuroscience experiment: interviewed and debriefed participants, researched articles for study; contributions led to a successful study and published paper on effect of mood on visual focus.
+ 
 ---
 
 ## EDUCATION
 ### UNIVERSITY OF WASHINGTON | Bothell, WA 
-#### **Software Design & Development** | June 2020           
+#### **Graduate Certificate. Software Design & Development** | June 2020
+
+_University courses taught by UWB Computer Science Department faculty. Progress to completion of coursework evaluated according to rigorous university Graduate School standards._
+
 *	Data Structures and Algorithms I & II
 *	Software Engineering Life Cycle & Development Processes
 *	Software Design and Modeling Techniques
 *	Systems Programming
 *	Software Testing and Quality
+
+### SEATTLE COLLEGE | Seattle, WA
+#### Computer Science | March 2016 – March 2017
+
+_Courses taken as prerequisites for the UW Graduate Certificate of Software Design & Development and for personal enrichment._
+
+Coursework: 	Computer Programming I & II  - Python, Java; Web Development I & II – HTML, CSS, PHP, JavaScript
+
+
+
 
 ### ROOSEVELT UNIVERSITY | Chicago, IL
 #### **M.A. Secondary Education** | _August 2014_      
